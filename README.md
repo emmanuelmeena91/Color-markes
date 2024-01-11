@@ -1,5 +1,5 @@
 # CSS color Maker
-![Color Marker](colormarker.png)
+![Color Marker](colormarker.png) 
 This code represents a simple example of colored markers created using HTML and CSS. The markers are displayed as rectangular shapes with a cap and a sleeve. Each marker has a different color scheme achieved through CSS gradients and box shadows.
 
 The markers are contained within a <div> element with the class "container".
